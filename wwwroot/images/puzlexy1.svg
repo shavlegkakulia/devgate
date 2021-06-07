@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="99" height="101" viewBox="0 0 99 101">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.905" y1="0.095" x2="0.104" y2="0.926" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4c888e"/>
+      <stop offset="1" stop-color="#78b5c3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.893" y1="0.073" x2="0.084" y2="0.918" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_19139" data-name="Group 19139" transform="translate(-811.396 -1428.895)">
+    <g id="puzzle_1_" data-name="puzzle (1)" transform="translate(811.396 1473.687)">
+      <g id="Group_10662" data-name="Group 10662">
+        <path id="Path_11510" data-name="Path 11510" d="M45.984,17.4a7.41,7.41,0,1,0-7.179-7.18L28.58,0,16.672,11.909l1.2,1.2a6.063,6.063,0,1,1-4.763,4.763l-1.2-1.2L0,28.582,10.225,38.805a7.41,7.41,0,1,0,7.179,7.18L27.628,56.209,39.537,44.3l-1.2-1.2A6.064,6.064,0,1,1,43.1,38.337l1.2,1.2,11.91-11.909Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="puzzle_1_2" data-name="puzzle (1)" transform="matrix(-0.07, -0.998, 0.998, -0.07, 854.324, 1488.888)">
+      <g id="Group_10662-2" data-name="Group 10662" transform="translate(0 0)">
+        <path id="Path_11510-2" data-name="Path 11510" d="M45.984,17.4a7.41,7.41,0,1,0-7.179-7.18L28.58,0,16.672,11.909l1.2,1.2a6.063,6.063,0,1,1-4.763,4.763l-1.2-1.2L0,28.582,10.225,38.805a7.41,7.41,0,1,0,7.179,7.18L27.628,56.209,39.537,44.3l-1.2-1.2A6.064,6.064,0,1,1,43.1,38.337l1.2,1.2,11.91-11.909Z" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

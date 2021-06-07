@@ -1,0 +1,23 @@
+<svg id="Group_15647" data-name="Group 15647" xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g id="Icon">
+    <g id="Ellipse_2" data-name="Ellipse 2" fill="#0c58be" stroke="#fff" stroke-width="6" opacity="0.999">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="57" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_10668" data-name="Group 10668" transform="translate(43 43)">
+    <rect id="Rectangle_498" data-name="Rectangle 498" width="34" height="34" fill="none"/>
+    <g id="Group_10667" data-name="Group 10667" transform="translate(0.334 0.399)">
+      <g id="web-development">
+        <path id="Path_11505" data-name="Path 11505" d="M30.4,1H2.93A2.933,2.933,0,0,0,0,3.93V31.272A2.933,2.933,0,0,0,2.93,34.2H30.4a2.933,2.933,0,0,0,2.93-2.93V3.93A2.933,2.933,0,0,0,30.4,1ZM2.93,2.953H30.4a.978.978,0,0,1,.977.977V8.812H1.953V3.93A.978.978,0,0,1,2.93,2.953ZM30.4,32.249H2.93a.978.978,0,0,1-.977-.977V10.765H31.379V31.272A.978.978,0,0,1,30.4,32.249Z" transform="translate(0 -1)" fill="#fff"/>
+        <path id="Path_11506" data-name="Path 11506" d="M203.217,196.076a.977.977,0,0,0-1.282.513l-5.859,13.671a.977.977,0,1,0,1.8.769l5.859-13.671A.976.976,0,0,0,203.217,196.076Z" transform="translate(-183.236 -183.302)" fill="#fff"/>
+        <path id="Path_11507" data-name="Path 11507" d="M82.625,241.366a.977.977,0,0,0-1.373-.152l-4.883,3.906a.977.977,0,0,0,0,1.525l4.883,3.906a.976.976,0,1,0,1.22-1.525l-3.929-3.144,3.929-3.144A.977.977,0,0,0,82.625,241.366Z" transform="translate(-71.056 -225.375)" fill="#fff"/>
+        <path id="Path_11508" data-name="Path 11508" d="M337.469,245.119l-4.883-3.906a.976.976,0,1,0-1.22,1.525l3.929,3.144-3.929,3.144a.976.976,0,1,0,1.22,1.525l4.883-3.906A.977.977,0,0,0,337.469,245.119Z" transform="translate(-309.451 -225.375)" fill="#fff"/>
+        <circle id="Ellipse_117" data-name="Ellipse 117" cx="0.977" cy="0.977" r="0.977" transform="translate(3.971 3.906)" fill="#fff"/>
+        <circle id="Ellipse_118" data-name="Ellipse 118" cx="0.977" cy="0.977" r="0.977" transform="translate(7.877 3.906)" fill="#fff"/>
+        <circle id="Ellipse_119" data-name="Ellipse 119" cx="0.977" cy="0.977" r="0.977" transform="translate(11.783 3.906)" fill="#fff"/>
+        <path id="Path_11509" data-name="Path 11509" d="M331.976,62.953h5.859a.977.977,0,0,0,0-1.953h-5.859a.977.977,0,0,0,0,1.953Z" transform="translate(-309.451 -57.094)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

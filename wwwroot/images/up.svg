@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="18" viewBox="0 0 26 18">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 42 30">
+      <image width="42" height="30" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAeCAYAAABaKIzgAAAAX0lEQVR42u2QsQkAIRAEr4hv55uwYTUSwUwM7EYuF89AwWAWNjv2hpFZfOlfTNWtGnL7xc7dfT2yhvSZGDm1j01sYhOb2MTmYzY1eniit/cBBRRQQAEFFFBAAQUU0I0O5e5B+HPHEKUAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="Path-10856" width="26" height="18" fill="url(#pattern)"/>
+</svg>

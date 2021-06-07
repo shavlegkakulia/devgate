@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.583" height="49" viewBox="0 0 56.583 49">
+  <defs>
+    <filter id="Path_23143" x="0" y="0" width="48.166" height="42.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="mobilelogo" transform="translate(4.583 4)">
+    <g id="Group_20636" data-name="Group 20636" transform="translate(1.417)">
+      <g id="Group_20635" data-name="Group 20635" transform="translate(0 0)">
+        <path id="Path_23147" data-name="Path 23147" d="M-3231.174,9354.014v30.641l-6.684-.605v-23.506s-8.668,1.365-14.481,7.393-8.377,16.719-8.377,16.719h-6.49s2.139-15.111,11.181-22.771S-3231.174,9354.014-3231.174,9354.014Z" transform="translate(3267.34 -9354.014)" fill="#4c888e"/>
+        <g id="Group_20634" data-name="Group 20634">
+          <g transform="matrix(1, 0, 0, 1, -6, -4)" filter="url(#Path_23143)">
+            <path id="Path_23143-2" data-name="Path 23143" d="M-3267.378,9354.014v30.641h7.135l-.452-24.111s8.668,1.365,14.482,7.393,8.376,16.719,8.376,16.719h6.624s-2.273-15.111-11.315-22.771S-3267.378,9354.014-3267.378,9354.014Z" transform="translate(3273.38 -9350.01)" fill="#78b5c3"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Devgate" transform="translate(0 42)" fill="#3c6a6f" font-size="11" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="0">DEVGATE</tspan></text>
+  </g>
+</svg>

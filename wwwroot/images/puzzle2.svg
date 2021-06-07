@@ -1,0 +1,11 @@
+<svg id="puzzle_1_" data-name="puzzle (1)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="158.06" height="158.06" viewBox="0 0 158.06 158.06">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.913" y1="0.11" x2="0.094" y2="0.909" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fae4a9"/>
+      <stop offset="1" stop-color="#ffbc07"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10662" data-name="Group 10662">
+    <path id="Path_11510" data-name="Path 11510" d="M129.308,48.939a20.838,20.838,0,1,0-20.187-20.19L80.369,0,46.882,33.487l3.37,3.37A17.049,17.049,0,1,1,36.857,50.252l-3.37-3.37L0,80.372l28.752,28.749a20.839,20.839,0,1,0,20.187,20.19L77.691,158.06l33.487-33.487-3.373-3.373A17.051,17.051,0,1,1,121.2,107.805l3.37,3.37,33.49-33.487Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

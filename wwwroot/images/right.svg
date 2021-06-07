@@ -1,0 +1,6 @@
+<svg id="Rounded_Button" data-name="Rounded Button" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="Rounded_Button-2" data-name="Rounded Button" opacity="0.5">
+    <circle id="Ellipse_23" data-name="Ellipse 23" cx="28" cy="28" r="28" fill="#4c858e"/>
+    <path id="icon-arrow-left" d="M5.439,14.287l.634.634a.683.683,0,0,0,.968,0L12.6,9.371a.683.683,0,0,0,0-.968L7.041,2.849a.683.683,0,0,0-.968,0l-.634.634a.686.686,0,0,0,.011.98l3.442,3.28H.682A.684.684,0,0,0,0,8.428v.914a.684.684,0,0,0,.686.686h8.21L5.45,13.307A.681.681,0,0,0,5.439,14.287Z" transform="translate(21.603 18.953)" fill="#fff"/>
+  </g>
+</svg>

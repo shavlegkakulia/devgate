@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_19338" data-name="Group 19338" transform="translate(-218 -958)">
+    <g id="Group_19335" data-name="Group 19335" transform="translate(20 10)">
+      <circle id="Ellipse_232" data-name="Ellipse 232" cx="30" cy="30" r="30" transform="translate(198 948)" fill="#4c888e"/>
+    </g>
+    <g id="windows-logo-silhouette" transform="translate(234 974)">
+      <g id="Group_19336" data-name="Group 19336">
+        <path id="Path_18044" data-name="Path 18044" d="M0,259.812l11.158,1.536V250.7H0Z" transform="translate(0 -236.333)" fill="#fff"/>
+        <path id="Path_18045" data-name="Path 18045" d="M0,49.285H11.158V38.5L0,40.042Z" transform="translate(0 -36.294)" fill="#fff"/>
+        <path id="Path_18046" data-name="Path 18046" d="M216.1,261.514l14.843,2.046V250.7H216.1Z" transform="translate(-203.716 -236.333)" fill="#fff"/>
+        <path id="Path_18047" data-name="Path 18047" d="M216.1,2.046V12.992h14.843V0Z" transform="translate(-203.716)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
