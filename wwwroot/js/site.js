@@ -57,6 +57,7 @@
             $(this).css({ 'transform': 'translateX(0px)', 'width': itemWidth * itemNumbers });
             $(this).find(itemClass).each(function () {
                 $(this).outerWidth(itemWidth);
+                $(this).outerHeight(itemWidth);
             });
 
             $(".leftLst").addClass("d-none");

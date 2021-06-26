@@ -1094,7 +1094,8 @@ html[lang=en] .navbar-light .navbar-nav .btn {
 .services .prod-card {
     padding: 30px 35px;
     background: #fff;
-    box-shadow: 0 12px 64px #a2a2a216;
+    /*box-shadow: 0 12px 64px #a2a2a216;*/
+    box-shadow: 0 12px 64px #a2a2a24d;
     border-radius: 8px;
     display: flex;
     position: relative;
@@ -2844,6 +2845,10 @@ html[lang=en] .navbar-light .navbar-nav .btn {
         margin-top: 25px;
         font-size: 13px;
         line-height: 26px;
+    }
+
+    .MultiCarousel .MultiCarousel-inner .item .pad15 {
+        height: calc(100% - 20px);
     }
 
     .MultiCarousel .MultiCarousel-inner .item .pad15 .img-container {
