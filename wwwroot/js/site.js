@@ -30,13 +30,14 @@
         var itemsSplit = '';
         var sampwidth = $(itemsMainDiv).width();
         var bodyWidth = $('body').width();
+        
         $(itemsDiv).each(function () {
             id = id + 1;
             var itemNumbers = $(this).find(itemClass).length;
             btnParentSb = $(this).parent().attr(dataItems);
             itemsSplit = btnParentSb.split(',');
             $(this).parent().attr("id", "MultiCarousel" + id);
-
+            var square = $(this).parent().attr("data-square");
 
             if (bodyWidth >= 1200) {
                 incno = itemsSplit[3];
@@ -57,7 +58,8 @@
             $(this).css({ 'transform': 'translateX(0px)', 'width': itemWidth * itemNumbers });
             $(this).find(itemClass).each(function () {
                 $(this).outerWidth(itemWidth);
-                $(this).outerHeight(itemWidth);
+                if (square)
+                    $(this).outerHeight(itemWidth);
             });
 
             $(".leftLst").addClass("d-none");

@@ -1,5 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Projects";
+    ViewBag.page = "Projects";
 }
 <div class="container-fluid prj-c">
     <div class="container d-blobk d-lg-none mt-5">
@@ -144,7 +145,7 @@
     </div>
 
 
-    <div class="container hasbmb">
+    <div class="container hasbmb has-prj">
         <div class="row projects devgate">
             <div class="col-lg-12">
                 <div class="info-title text-left">
@@ -156,19 +157,23 @@
 
         <div class="row pro-butt">
             <div class="col-12">
-                <button type="button" class="ps1 btn bg-white btn-outline-info mb-lg-5 mb-4 mb-sm-4">Public Sector</button>
-                <button type="button" class="ps2 btn btn-primary text-white ml-lg-3 ml-md-3 mb-lg-5 mb-4 mb-sm-4 ml-2">Private Sector</button>
+                <button type="button" class="ps1 btn bg-white btn-outline-info mb-lg-5 mb-4 mb-sm-4">private Sector</button>
+                <button type="button" class="ps2 btn btn-primary text-white ml-lg-3 ml-md-3 mb-lg-5 mb-4 mb-sm-4 ml-2">public Sector</button>
             </div>
         </div>
 
-        <div class="row projects devgate">
+        <div class="row projects devgate private-sector">
             <div class="tab-pane fade in active show overflow-hidden">
                 <div class="MultiCarousel mt-0 p-0" data-items="2,3,4,5" data-slide="1" id="MultiCarousel" data-interval="1000">
                     <div class="MultiCarousel-inner">
+             
+
+
+
                         <div class="item">
-                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card" >
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3" >
                                 <div class="img-container">
-                                    <img src="~/images/dev-prj-1.png" alt="img" class="prj-img" />
+                                    <img src="~/images/dev-prj-13.png" alt="img" class="prj-img" />
                                 </div>
                                 <div class="detail-container">
                                     <div class="title">StoXPro</div>
@@ -182,9 +187,9 @@
                         </div>
 
                         <div class="item">
-                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card" >
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3" >
                                 <div class="img-container">
-                                    <img src="~/images/dev-prj-2.png" alt="img" class="prj-img" />
+                                    <img src="~/images/dev-prj-14.png" alt="img" class="prj-img" />
                                 </div>
                                 <div class="detail-container">
                                     <div class="title">POSIS</div>
@@ -198,9 +203,9 @@
                         </div>
 
                         <div class="item">
-                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3" >
                                 <div class="img-container">
-                                    <img src="~/images/dev-prj-3.png" alt="img" class="prj-img" />
+                                    <img src="~/images/dev-prj-15.png" alt="img" class="prj-img" />
                                 </div>
                                 <div class="detail-container">
                                     <div class="title">CarParX</div>
@@ -214,9 +219,9 @@
                         </div>
 
                         <div class="item">
-                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3" >
                                 <div class="img-container">
-                                    <img src="~/images/dev-prj-4.png" alt="img" class="prj-img" />
+                                    <img src="~/images/dev-prj-16.png" alt="img" class="prj-img" />
                                 </div>
                                 <div class="detail-container">
                                     <div class="title">Amber</div>
@@ -230,15 +235,124 @@
                         </div>
 
                         <div class="item">
-                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card" >
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3">
                                 <div class="img-container">
-                                    <img src="~/images/dev-prj-5.png" alt="img" class="prj-img" />
+                                    <img src="~/images/dev-prj-17.png" alt="img" class="prj-img" />
                                 </div>
                                 <div class="detail-container">
                                     <div class="title">GUWC</div>
                                     <div class="desc">
                                         Enterprice Resource
                                         Planning System
+                                    </div>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button class="btn btn-primary leftLst"><i class="fas fa-arrow-left"></i></button>
+                    <button class="btn btn-primary rightLst"><i class="fas fa-arrow-right"></i></button>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row projects devgate public-sector">
+            <div class="tab-pane fade in active show overflow-hidden">
+                <div class="MultiCarousel mt-0 p-0" data-items="2,3,4,5" data-slide="1" id="MultiCarousel" data-interval="1000">
+                    <div class="MultiCarousel-inner">
+                        <div class="item">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                                <div class="img-container">
+                                    <img src="~/images/dev-prj-7.png" alt="img" class="prj-img" />
+                                </div>
+                                <div class="detail-container">
+                                    <div class="title">BIO-METRIC</div>
+                                    <div class="desc">
+                                        Biometric data
+                                        (Face Recognition…
+                                    </div>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                                <div class="img-container">
+                                    <img src="~/images/dev-prj-8.png" alt="img" class="prj-img" />
+                                </div>
+                                <div class="detail-container">
+                                    <div class="title">HiSOG</div>
+                                    <div class="desc">
+                                        Education & Trainings
+                                        Management System
+                                    </div>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                                <div class="img-container">
+                                    <img src="~/images/dev-prj-9.png" alt="img" class="prj-img" />
+                                </div>
+                                <div class="detail-container">
+                                    <div class="title">MTA Seafarers</div>
+                                    <div class="desc">
+                                        Maritime Transport
+                                        Agency Seafarers…
+                                    </div>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                                <div class="img-container">
+                                    <img src="~/images/dev-prj-10.png" alt="img" class="prj-img" />
+                                </div>
+                                <div class="detail-container">
+                                    <div class="title">
+                                        PSDA Online
+                                        Services
+                                    </div>
+                                    <div class="desc">
+                                       &nbsp;
+                                    </div>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                                <div class="img-container">
+                                    <img src="~/images/dev-prj-11.png" alt="img" class="prj-img" />
+                                </div>
+                                <div class="detail-container">
+                                    <div class="title">PSDA Xengine</div>
+                                    <div class="desc">
+                                        Task Distribution and
+                                        Management System
+                                    </div>
+                                    <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="pad15 pt-lg-4 pb-lg-4 pl-lg-4 pr-lg-4 p-3 prj-card">
+                                <div class="img-container">
+                                    <img src="~/images/dev-prj-12.png" alt="img" class="prj-img" />
+                                </div>
+                                <div class="detail-container">
+                                    <div class="title">PSDA XCRMS</div>
+                                    <div class="desc">
+                                        Personal Identification
+                                        Service
                                     </div>
                                     <a href="#" data-toggle="modal" data-target="#exampleModalCenter">See More </a>
                                 </div>
@@ -258,7 +372,7 @@
     </div>
 
 
-    <div class="container-fluid projects bg mlg mt-5">
+    <div class="container-fluid projects has-mrg bg mlg mt-5">
         <div class="container position-relative pb-5">
             <div class="clientstitle">
                 How clients view our work
@@ -341,7 +455,7 @@
             </div>
 
 
-            <div class="row mt-5">
+            <div class="row mt-5 prj-have-project">
                 <div class="col-lg-12">
                     <div class="downdesc text-center">
                         Have a project in mind? Let’s get to work.
@@ -415,5 +529,5 @@
         </div>
     </div>
 
-    <div class="bottom"></div>
+
 </div>
