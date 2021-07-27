@@ -106,4 +106,19 @@
         ResCarousel(ell, Parent, slide);
     }
 
+
+    //    $(".prod-card").click(function () {
+//        if ($(this).height() > 375) {
+//            $(this).animate({
+//                maxHeight: 375
+//            }, 200);
+//        } else {
+//            $(this).animate({
+//                maxHeight: 500
+//            }, 200);
+//        }
+//    });
 });
+
+
+

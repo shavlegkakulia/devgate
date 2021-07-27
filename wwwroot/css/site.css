@@ -31,7 +31,7 @@ body {
 }
 
 .bottom.competencies {
-    margin-top: 250px;
+    margin-top: 70px;
 }
 
 .color-2 {
@@ -216,7 +216,25 @@ body {
                     .carouselContainer ul li.seemorecentered a:before {
                         display: none;
                     }
+.ppr a {
+    background: #ffffff;
+    border: 1px solid #4C888E;
+    border-radius: 4px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 14px;
+    color: #4C888E;
+    font-family: 'Montserrat-Medium';
+    font-size: 18px;
+}
 
+.ppr.active a {
+    background: #4C888E;
+    color: #ffffff;
+    border: none;
+}
 .MultiCarousel {
     float: left;
     overflow: hidden;
@@ -322,6 +340,7 @@ body {
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
+            min-height: 44px;
         }
 
         .MultiCarousel .MultiCarousel-inner .item .pad15 .detail-container a {
@@ -2474,8 +2493,15 @@ html[lang=en] .navbar-light .navbar-nav .btn {
 }
 
 @media (max-width: 767.98px) {
+    .ppr a {
+        font-size: 16px;
+    }
+
     .w-100-mb {
         width: calc(100% - 2rem) !important;
+    }
+    .aboutushavent{
+        margin-top: 70px !important;
     }
     /*carousel*/
     .carouselContainer .carousel-header .title {
@@ -2891,6 +2917,14 @@ html[lang=en] .navbar-light .navbar-nav .btn {
 }
 
 @media (max-width: 575.98px) {
+    .ppr a {
+        font-size: 14px;
+        width: 125px;
+    }
+
+    .ppr.active a {
+        width: auto;
+    }
     .seemorecentered a {
         font-size: 16px;
     }
@@ -3039,6 +3073,18 @@ html[lang=en] .navbar-light .navbar-nav .btn {
         padding: 45px 0 45px 0;
     }
 
+    .competences .stack-card .stack-img {
+        padding: 19px 11px;
+    }
+
+    .competences.techstack{
+        margin-top: 20px;
+    }
+
+    .bottom.competencies {
+        margin-top: 20px;
+    }
+
     .competences-in-home .desc {
         font-size: 14px;
         line-height: 27px;
@@ -3134,6 +3180,8 @@ html[lang=en] .navbar-light .navbar-nav .btn {
 
     /*projects*/
 
+ 
+
     .projects.mlg {
         box-shadow: 0 12px 64px #a2a2a238;
         margin: 0;
@@ -3149,7 +3197,7 @@ html[lang=en] .navbar-light .navbar-nav .btn {
     }
 
     .projects .info-title {
-        font-size: 23px;
+        font-size: 22px;
         line-height: 52px;
         margin-top: 20px;
     }
